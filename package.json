@@ -1,0 +1,17 @@
+{
+  "name": "mein-vscode-projekt",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "vscode:prepublish": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "openai": "^0.29.0",
+    "vscode": "^1.61.0"
+  }
+}
